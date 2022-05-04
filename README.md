@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Lachlan 👋
+
+I'm a software developer working remotely 🌏 from Brisbane, Australia 🇦🇺 at [Calyptia](https://calyptia.com/?ref=lachlanyoung) specialising in React and React Native. 
+
+Before Calyptia, I spent 3 years as a full-stack developer at [Tanda](https://tanda.co/?ref=lachlanyoung) and was responsible for a large part of the mobile app's development, engineering solutions to complex compliance issues and contributing to the thriving team culture. Before Tanda I was working at [Otso AI](https://otso.ai/?ref=lachlanyoung) and before that.... check out my [LinkedIn](https://linkedin.com/in/builtbyproxy)
+
+Outside of work I'm slowly launching [AuthNet](https://authnet.app/?ref=lachlanyoung) which I'd love your support and feedback on. I'm equally passionate about finding a solution to the gender diversity issues we see in Tech in an actionable way, so I regularly mentor for [SheCodes](https://shecodes.com.au/?ref=lachlanyoung) in React and Html/CSS.
+
+For a more up to date timeline of my life check out [my website](https://lachlanyoung.dev) which is reskinned [polywork account](https://www.polywork.com/invite/lachlan-electrode) 😅
 
 <!--
 **builtbyproxy/builtbyproxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
