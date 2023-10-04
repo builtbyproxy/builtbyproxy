@@ -1,10 +1,12 @@
 # Hi, I'm Lachlan 👋
 
-I'm a software developer working remotely 🌏 from Brisbane, Australia 🇦🇺 at [Calyptia](https://calyptia.com/?ref=lachlanyoung) specialising in React and React Native. 
+I'm a software developer working from Brisbane, Australia 🇦🇺 at [Visibuild](https://visibuild.com.au/?ref=lachlanyoung) specialising in React, React Native, GraphQL and Rails. 
 
-Before Calyptia, I spent 3 years as a full-stack developer at [Tanda](https://tanda.co/?ref=lachlanyoung) and was responsible for a large part of the mobile app's development, engineering solutions to complex compliance issues and contributing to the thriving team culture. Before Tanda I was working at [Otso AI](https://otso.ai/?ref=lachlanyoung) and before that.... check out my [LinkedIn](https://linkedin.com/in/builtbyproxy)
+Before Visibuild, I spent a year and a half working working remotely at [Calyptia](https://calyptia.com/?ref=lachlanyoung). Before Calyptia, I spent 3 years as a full-stack developer at [Tanda](https://tanda.co/?ref=lachlanyoung) and was responsible for a large part of the mobile app's development, engineering solutions to complex compliance issues and contributing to the thriving team culture, and before that.... check out my [LinkedIn](https://linkedin.com/in/builtbyproxy)
 
-Outside of work I'm slowly launching [AuthNet](https://authnet.app/?ref=lachlanyoung) which I'd love your support and feedback on. I'm equally passionate about finding a solution to the gender diversity issues we see in Tech in an actionable way, so I regularly mentor for [SheCodes](https://shecodes.com.au/?ref=lachlanyoung) in React and Html/CSS.
+Outside of work I'm both the proud founder of [HotHack 🔥](https://hothack.com/?ref=lachlanyoung) and [AuthNet](https://authnet.app/?ref=lachlanyoung), both of which I'd love your support and feedback on. I'm equally passionate about finding a solution to the gender diversity issues we see in Tech in an actionable way, so I regularly mentor for [SheCodes](https://shecodes.com.au/?ref=lachlanyoung) in React and Html/CSS. 
+
+Did I mention I work in Brisbane, Australia 🎉 If you ever find yourself in town and passionate about React, come along to the [ReactBris](https://www.meetup.com/en-AU/reactbris/) meetup that I co-organise!
 
 For a more up to date timeline of my life check out [my website](https://lachlanyoung.dev) which is reskinned [polywork account](https://www.polywork.com/invite/lachlan-electrode) 😅
 
